@@ -1,0 +1,3 @@
+﻿  Assignment0.cpp
+C:\Users\chore\OneDrive\Documents\GitHub\CIS227\Assignment0\Assignment0\Assignment0.cpp(41,29): error C3861: 'ValidateInteger': identifier not found
+C:\Users\chore\OneDrive\Documents\GitHub\CIS227\Assignment0\Assignment0\Assignment0.cpp(47,24): error C3861: 'ValidateInteger': identifier not found
