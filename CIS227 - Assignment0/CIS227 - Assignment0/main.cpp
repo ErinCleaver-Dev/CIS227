@@ -25,7 +25,7 @@ int main(int argc, char* argv[]) {
 	bool bExit = false; //Boolen for exiting the program
 	int iMenu; //Stores the Integer for the menu option 
 	ShapeCalculations shapeCalculations; //the class for shape calculations 
-	bool runEquation = false;
+
 
 	while (!bExit) {
 
